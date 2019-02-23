@@ -3,3 +3,5 @@
 "1" + "is the loneliest number"
 
 1 + 4
+
+num = 1
